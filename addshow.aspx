@@ -57,7 +57,7 @@
             </tr>
             <tr>
                 <td>
-                    <asp:Label ID="lblChooseArtist" runat="server" Text=""></asp:Label>
+                    <asp:Label ID="lblChooseArtist" runat="server" Text="" CssClass="selectartist"></asp:Label>
                 </td>
             </tr>
             <tr>
